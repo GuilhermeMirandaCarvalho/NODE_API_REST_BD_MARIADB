@@ -13,8 +13,8 @@ var _alunoRoutes = require('./routes/alunoRoutes'); var _alunoRoutes2 = _interop
 var _fotoRoutes = require('./routes/fotoRoutes'); var _fotoRoutes2 = _interopRequireDefault(_fotoRoutes);
 
 const whiteList = [
-  'https://react1.otaviomiranda.com.br',
-  'https://react2.otaviomiranda.com.br',
+  'https://api.meuaprendizadodev.com.br',
+  'https://meuaprendizadodev.com.br',
   'http://localhost:3000',
 ];
 
